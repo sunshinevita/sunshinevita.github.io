@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+  <url>
+    <loc>http://sunshinevita.com/2016/07/28/Test/</loc>
+    <lastmod>2016-07-28T04:54:24.143Z</lastmod>
+    <data>
+        <display>
+        <title>Test</title>
+        <pubTime>2016-07-28T04:52:43.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://sunshinevita.com/2016/07/27/hello-world/</loc>
+    <lastmod>2016-07-27T07:56:16.274Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-07-27T07:56:16.274Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
